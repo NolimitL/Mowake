@@ -1,0 +1,7 @@
+{
+  "name": "Mowake",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
